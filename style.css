@@ -1,0 +1,45 @@
+body{
+
+font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    color: goldenrod;
+}
+.focus{
+    color: brown;
+}
+.time{
+    color: indianred;
+}
+.mission{
+    color: crimson;
+}
+.flexible-container{
+    display: flex;
+}
+.stay-us{
+    width: 70%;
+    padding: 10%;
+}
+.stay-us img{
+    width: 100%;
+
+}
+.input{
+    border-left: 4px solid;
+    border-color: red;
+    border-image-slice: 1;
+    border-radius: 3px;
+}
+.explore-now{
+    color: white;
+    background-color: red;
+    height: 30px;
+    width: 30%;
+    border: 2px solid red;
+    border-radius: 5px;
+    padding-left: 30px;
+    padding-top: 7px;
+
+}
