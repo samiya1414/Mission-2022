@@ -31,6 +31,7 @@ h1{
     border-color: red;
     border-image-slice: 1;
     border-radius: 3px;
+    padding-left: 2%;
 }
 .explore-now{
     color: white;
@@ -43,7 +44,7 @@ h1{
     padding-top: 7px;
 }
 .font{
-    font-size: 50px;
+    font-size: 60px;
     color:orangered;
     text-align: center;
 }
@@ -51,17 +52,17 @@ h1{
     color: brown;
 }
 .goal{
-    border-radius: 20px;
+    border-radius: 40px;
     background-color: lightgrey;
     width: 35%;
     height: 500px;
     padding-left: 2%;
     padding-right:2%;
-    margin-right: 5%;
+    margin-right: 10%;
 
 }
 .fresh{
-    border-radius: 20px;
+    border-radius: 40px;
     background-color:lightsalmon;
     width: 35%;
     height: 500px;
@@ -71,13 +72,13 @@ h1{
     margin-right: 2%;
 }
 .hope{
-    border-radius: 20px;
+    border-radius: 40px;
     background-color:lightskyblue;
     width: 35%;
     height: 500px;
     padding-left: 2%;
     padding-right: 2%;
-    margin-left: 5%;
+    margin-left: 10%;
 
 }
 
@@ -85,6 +86,23 @@ h1{
     width: 70%;
     
 }
+.work{
+    color:purple;
+}
+.stay-with{
+    width: 70%;
+    margin-left: 9%;
+    margin-top: 5%;
+    
+}
+.stay-with img{
+    width: 80%;
+}
+.blue{
+    margin-right: 8%;
+    margin-top: 8%;
+}
+
 
 
 
