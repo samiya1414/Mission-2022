@@ -91,16 +91,40 @@ h1{
 }
 .stay-with{
     width: 70%;
+    margin-right: 3%;
     margin-left: 9%;
     margin-top: 5%;
     
 }
 .stay-with img{
-    width: 80%;
+    width: 100%;
 }
 .blue{
     margin-right: 8%;
     margin-top: 8%;
+}
+.global{
+    color:palevioletred;
+}
+.community{
+    width: 70%;
+    margin-right: 9%;
+    margin-top: 5%;
+    margin-left: 8%;
+}
+.community img{
+    width: 100%;
+}
+.explore{
+    color: white;
+    background-color: red;
+    height: 10%;
+    width: 30%;
+    border: 2px solid red;
+    border-radius: 5px;
+    padding-left: 30px;
+    padding-top: 7px;
+
 }
 
 
