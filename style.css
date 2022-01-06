@@ -124,7 +124,45 @@ h1{
     border-radius: 5px;
     padding-left: 30px;
     padding-top: 7px;
+}
+.apply{
+    font-size: 100px;
+    text-align: center;
+}
+.corona{
+    font-size: 40px;
+    color:midnightblue;
+}
+.build{
+    font-size: 40px;
+    color:mediumvioletred;
 
+}
+.safe{
+    color: green;
+}
+.go{
+    color: orangered;
+}
+.photo{
+    width:60%;
+    margin-right: 3%;
+    
+       
+}
+.photo img{
+    width:40%;
+    margin-left: 20%;
+}
+.store{ 
+    color: blanchedalmond;
+    background-color: black;
+    text-align: center;
+    padding: 1%;
+    font-family:sans-serif;
+}
+.absence{
+    color:blanchedalmond;
 }
 
 
