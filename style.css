@@ -41,5 +41,50 @@ h1{
     border-radius: 5px;
     padding-left: 30px;
     padding-top: 7px;
+}
+.font{
+    font-size: 50px;
+    color:orangered;
+    text-align: center;
+}
+.read{
+    color: brown;
+}
+.goal{
+    border-radius: 20px;
+    background-color: lightgrey;
+    width: 35%;
+    height: 500px;
+    padding-left: 2%;
+    padding-right:2%;
+    margin-right: 5%;
 
 }
+.fresh{
+    border-radius: 20px;
+    background-color:lightsalmon;
+    width: 35%;
+    height: 500px;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.hope{
+    border-radius: 20px;
+    background-color:lightskyblue;
+    width: 35%;
+    height: 500px;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-left: 5%;
+
+}
+
+.goal-have img{
+    width: 70%;
+    
+}
+
+
+
